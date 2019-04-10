@@ -11,4 +11,4 @@ The earth sensor can be purchased here https://bit.ly/2DpXltg
 
 https://youtu.be/nMpe686jANA
 
-<div class="ytp-cued-thumbnail-overlay-image" style="background-image: url(&quot;https://i.ytimg.com/vi_webp/nMpe686jANA/maxresdefault.webp&quot;);"></div>
+[![Alt text](https://i.ytimg.com/vi_webp/nMpe686jANA/maxresdefault.webp)](https://www.youtube.com/watch?v=nMpe686jANA)
