@@ -10,3 +10,5 @@ It uses the awesome avatar library for M5Stack by m5stack user shinya ishikawa h
 The earth sensor can be purchased here https://bit.ly/2DpXltg
 
 https://youtu.be/nMpe686jANA
+
+<div class="ytp-cued-thumbnail-overlay-image" style="background-image: url(&quot;https://i.ytimg.com/vi_webp/nMpe686jANA/maxresdefault.webp&quot;);"></div>
